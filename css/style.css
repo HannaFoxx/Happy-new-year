@@ -1,0 +1,21 @@
+section{
+    background-color: rgb(112, 112, 112);
+    width: 100vw;
+    height: 100vh;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.next{
+    background-color: black;
+    border-radius: 100%;
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 100px;
+    right: 50px;
+    bottom: 50px;
+}
